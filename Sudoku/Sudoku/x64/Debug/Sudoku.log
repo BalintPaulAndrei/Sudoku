@@ -1,0 +1,3 @@
+﻿  Sudoku.cpp
+D:\Projects\Rezumat Github\Sudoku\Sudoku\Sudoku.cpp(55): warning C4715: 'UsedInCol': not all control paths return a value
+  Sudoku.vcxproj -> D:\Projects\Rezumat Github\Sudoku\x64\Debug\Sudoku.exe
